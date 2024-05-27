@@ -1,0 +1,17 @@
+a{
+font-size: 20px;
+text-decoration: none;
+}
+
+ul{
+list-style-type: none;
+}
+
+#section1 { 
+    background-color: aquamarine;
+}
+
+h2 {
+    border: 2px solid black;
+    padding: 100px;
+}
